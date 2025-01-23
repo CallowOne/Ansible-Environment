@@ -1,0 +1,15 @@
+---
+- hosts: redhatservers
+  become: yes
+
+  tasks:
+  - name: heck Hostname
+    command: hostnamectl
+   #name:chrony
+   #state:present
+
+#- name:Ensure chrony is running.
+#service:
+# name:chronyd
+# state:started
+# enabled:yes
