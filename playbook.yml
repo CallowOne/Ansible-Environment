@@ -7,7 +7,7 @@
     command: hostnamectl
    #name:chrony
    #state:present
-
+#change
 #- name:Ensure chrony is running.
 #service:
 # name:chronyd
