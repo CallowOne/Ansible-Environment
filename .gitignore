@@ -2,3 +2,5 @@
 Access-RedHat-Servers.pem
 hosts.ini
 instances
+.vagrant
+Vagrantfile
