@@ -4,3 +4,5 @@ hosts.ini
 instances
 .vagrant
 Vagrantfile
+python-scripts/
+.gitignore
